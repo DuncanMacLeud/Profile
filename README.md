@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DuncanMacLeud
+- 👀 I’m interested in Unity3D Develop, C#, HTML, CSS and javacript coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on Unity3D Develop
